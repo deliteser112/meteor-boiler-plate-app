@@ -1,0 +1,16 @@
+{
+  "name": "Pup - The Ultimate Boilerplate for Products",
+  "short_name": "Pup",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#4285F4",
+  "theme_color": "#4285F4",
+  "icons": [
+    {
+      "src": "/apple-touch-icon-precomposed.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "density": 1
+    }
+  ]
+}
