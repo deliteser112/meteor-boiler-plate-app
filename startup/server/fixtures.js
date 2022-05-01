@@ -55,12 +55,12 @@ seeder(Meteor.users, {
   data: {
     static: [
       {
-        email: 'admin@admin.com',
+        email: 'daniel@pasme.com.au',
         password: 'password',
         profile: {
           name: {
-            first: 'Andy',
-            last: 'Warhol',
+            first: 'Daniel',
+            last: 'Lewis',
           },
         },
         roles: ['admin'],
